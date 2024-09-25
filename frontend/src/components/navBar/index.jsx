@@ -38,7 +38,7 @@ const Navbar = () => {
           fontWeight={"bold"}
           textAlign={"center"}
         >
-          <Link to="/">Shoppee</Link>
+          <Link to="/">Shoppeetu</Link>
         </Text>
 
         <HStack spacing={4} alignItems={"center"}>
