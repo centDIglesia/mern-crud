@@ -66,7 +66,7 @@ const ProductCard = ({ product }) => {
     <Box
       key={product._id}
       p={5}
-      shadow="0 0 20px rgba(0,0,0,.08)"
+      shadow="0 0 20px rgba(0,0,0,.05)"
       rounded={6}
       _hover={{
         shadow: "0 0 30px rgba(0,0,0,.12)",
